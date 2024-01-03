@@ -1,0 +1,13 @@
+numpy
+torch
+opencv-python
+ipython
+scipy
+scikit-learn
+scikit-image
+torchvision
+termcolor
+torchsummary
+torchviz
+tqdm
+adversarial-robustness-toolbox
