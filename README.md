@@ -1,4 +1,4 @@
-# Robust Model Compression for Limited Resource Hardware
+# Robust Convolutional Neural Networks with Resource Constraints
 
 ## Contents
 - [Notebook](./Interpreting_models.ipynb) for CNN interpretability tooling. 
